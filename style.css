@@ -1,0 +1,18 @@
+header{
+    background-image: linear-gradient(#000, #005, #055);
+    color: white;
+    height: 90px;
+}
+header input{
+    background-color: darkgray;
+    color: black;
+    border-style: solid;
+    border-width: medium;
+    border-color: white;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+div {
+    margin-left: 25px;
+}
